@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "releaseNotes": "Початкова версія VoiceRec: створена для тестування.",
-  "apkUrl": "https://github.com/shevelalex/VoiceRec/releases/download/V1.0.1/VoiceRec.apk"
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "releaseNotes": "VoiceRec: V1.0.2",
+  "apkUrl": "https://github.com/shevelalex/VoiceRec/releases/download/V1.0.2/VoiceRec.apk"
 }
